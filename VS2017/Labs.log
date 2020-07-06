@@ -1,0 +1,12 @@
+﻿  lab4.cpp
+D:\Visual Studio\WorkSpace\Lab01\Lab_Framework\VS2017\Shader.h(47,34): warning C4101: 'e': unreferenced local variable
+D:\Visual Studio\WorkSpace\Lab01\Lab_Framework\VS2017\lab4.cpp(285,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio\WorkSpace\Lab01\Lab_Framework\VS2017\lab4.cpp(315,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio\WorkSpace\Lab01\Lab_Framework\VS2017\lab4.cpp(333,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio\WorkSpace\Lab01\Lab_Framework\VS2017\lab4.cpp(334,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio\WorkSpace\Lab01\Lab_Framework\VS2017\lab4.cpp(338,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio\WorkSpace\Lab01\Lab_Framework\VS2017\lab4.cpp(339,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio\WorkSpace\Lab01\Lab_Framework\VS2017\lab4.cpp(341,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio\WorkSpace\Lab01\Lab_Framework\VS2017\lab4.cpp(342,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio\WorkSpace\Lab01\Lab_Framework\VS2017\lab4.cpp(349,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Labs.vcxproj -> D:\Visual Studio\WorkSpace\Lab01\Lab_Framework\VS2017\/../Bin/Labs-Debug.exe
